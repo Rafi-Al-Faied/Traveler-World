@@ -1,0 +1,23 @@
+nav {
+    font-size: 25px;
+    height: 100px;
+ 
+    color: #fff;
+
+}
+
+.navbar {
+    background-color: rgb(5, 5, 5);
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+    position: absolute;
+    width: 100%;
+    z-index: 5;
+}
+.SignInBtn {
+    display: flex;
+   
+}
+.SignInBtn button{
+   margin-right: 10px;
+}

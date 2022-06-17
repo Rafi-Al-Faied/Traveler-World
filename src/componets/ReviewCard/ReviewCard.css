@@ -1,0 +1,27 @@
+.top {
+  
+    display: flex;
+    flex: 0%;
+}
+
+.card-img img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    float: left;
+}
+
+.card-title {
+
+    justify-content: end;
+    align-self: center;
+    font-size: 20px;
+}
+
+.ratings {
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    margin-bottom: 20px;
+
+}

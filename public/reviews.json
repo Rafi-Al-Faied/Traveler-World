@@ -1,0 +1,44 @@
+[
+  {
+    "id": "0a1",
+    "reveiw" : "There products are really authentic . Prices are also reasonable compared with the showrooms. And the quality is also top notch",
+    "name": "Mark John",
+    "rating": "5 star",
+    "img": "https://www.prokerala.com/images/1200/hrithik-roshan-2.jpg"
+  },
+  {
+      "id": "0a2",
+      "reveiw" : "They deliverd my product within 2 days of my order and the products were pretty good.. Loved there service",
+      "name": "Anna Gomez",
+      "rating": "4 star",
+      "img": "https://www.gannett-cdn.com/presto/2019/08/23/PMAN/88cdd040-737d-4fab-97c5-90475560c577-marilynjohnpic.jpg"
+    },
+    {
+      "id": "0a3",
+      "reveiw" : "I can find my products here easily with less effort.Overall I had an good experience.I will defenitely recommend to buy from them.",
+      "name": "Harry Potter",
+      "rating": "5 star",
+      "img": "https://cbsnews1.cbsistatic.com/hub/i/2016/10/05/444997a4-b4a5-4701-89dd-73836ca10f2f/gettyimages-611651916.jpg"
+    },
+    {
+      "id": "0a4",
+      "name": "Jaqlin Hill",
+      "reveiw" : "There watches are really cool and stylish .Also the prices are budget-friendly as well .I am looking forward to purchase again from here!! ",
+      "rating": "4.5 star",
+      "img": "https://i.pinimg.com/originals/05/05/3d/05053d27534cfa8055350322fb4130d0.jpg"
+    },
+    {
+      "id": "0a5",
+      "name": "Mr.Daniel",
+      "reveiw" : "I ordered from here because they have warranty ,guarentee for every product and they also have return policy.This is really helpfull for buyers like us .",
+      "rating": "5 star",
+      "img": "https://i0.wp.com/www.ogilvy.com/sites/g/files/dhpsjz106/files/inline-images/John_Seifert_Press.jpg"
+    },
+    {
+      "id": "0a6",
+      "reveiw" : "I am really shocked with there shipping cost .They take half shipping charges compared to local sites .I will buy again for sure !",
+      "name": "Mrs.Obama",
+      "rating": "4.9 star",
+      "img": "https://cdn1.sph.harvard.edu/wp-content/uploads/sites/2320/2019/01/LJHeadShotHighRes-e1556319607859.jpg"
+    }
+]

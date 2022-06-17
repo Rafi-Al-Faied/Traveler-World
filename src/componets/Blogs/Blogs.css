@@ -1,0 +1,24 @@
+.title {
+    height: 60px;
+    background-color: rgb(127, 210, 116);
+    color: rgb(51, 35, 35);
+    font-weight: bold;
+  width: 100%;
+
+}
+.answer {
+    text-align: justify;
+    text-justify: inter-word;
+  
+}
+.top-section2 {
+  color: #fff;
+}
+.top-section3 {
+  margin-top: 100px;
+}
+
+.cards .car{
+ 
+  width: 90%;
+}

@@ -1,0 +1,132 @@
+.services-section {
+    margin-bottom: 100px;
+
+}
+
+.services-title4 {
+    color: #fff;
+    margin-bottom: 50px;
+    font-size: 60px;
+}
+
+.services-title2 {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    text-align: left;
+    font-size: 30px;
+}
+
+.services-title3 {
+    margin-top: 100px;
+    margin-bottom: 50px;
+
+    font-size: 60px;
+}
+
+.card {
+    border: none;
+}
+
+.services-section img {
+    height: 20rem;
+}
+
+.left {
+    position: relative;
+}
+
+.left div {
+    position: relative;
+    bottom: 80px;
+    background-color: #FA9E1B;
+    color: #fff;
+    width: 80%;
+}
+
+.left div h3 {
+    font-size: 25px;
+}
+
+.icon-group {
+    display: flex;
+}
+
+.right {
+    text-align: left;
+
+}
+
+.right h4 {
+    color: #FA9E1B;
+
+}
+
+.right h4 span {
+    color: #5c5955;
+    font-size: 16px;
+
+}
+
+.right h5 {
+    font-size: 16px;
+}
+
+.right h6 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+.ratings {
+    display: flex;
+    color: #FA9E1B;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.right p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.ratings .star {
+    margin-right: 10px;
+}
+
+
+.icon img {
+    height: 2rem;
+    width: 2rem;
+    margin-right: -15px;
+}
+
+/* button style */
+.bg-text button {
+    margin-left: 45%;
+
+}
+
+.btn-grad {
+    background-image: linear-gradient(to right, #1D2B64 0%, #9555EE 51%, #F0972F 100%)
+}
+
+.btn-grad {
+    margin-top: 20px;
+    padding: 10px 30px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+
+}
+
+.btn-grad:hover {
+    background-position: right center;
+    color: #fff;
+    text-decoration: none;
+}
